@@ -1,0 +1,5 @@
+[mysql]
+User = "root"
+Password = ""
+Addr = "tcp(127.0.0.1:3306)"
+DBname = "harmony"
